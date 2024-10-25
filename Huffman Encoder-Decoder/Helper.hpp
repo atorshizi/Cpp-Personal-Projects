@@ -27,8 +27,7 @@ class FancyInputStream {
         FancyInputStream(const char* filename);
 
         /**
-         * Returns true if none of the stream's error state flags (eofbit, failbit and badbit) is set.
-         * See: https://www.cplusplus.com/reference/ios/ios/good/
+         * Returns true if none of the stream's error state flags (eofbit, failbit and badbit) is set. 
          */
         bool good() const;
 
@@ -84,7 +83,6 @@ class FancyOutputStream {
 
         /**
          * Returns true if none of the stream's error state flags (eofbit, failbit and badbit) is set.
-         * See: https://www.cplusplus.com/reference/ios/ios/good/
          */
         bool good() const;
 
