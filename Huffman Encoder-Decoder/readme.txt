@@ -1,0 +1,1 @@
+This project implements a file compression tool using Huffman encoding. It includes two main programs: compress and uncompress. The compress program generates a compressed file from any input file by constructing and applying a Huffman code, while uncompress restores the original file from the compressed version and its included header, ensuring identical output. 

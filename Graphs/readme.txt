@@ -1,0 +1,1 @@
+This project features a Graph class for analyzing networks, such as viral transmission clusters in epidemiology. It builds undirected graphs from HIV transmission data and identifies clusters. Key functions include computing shortest paths (weighted and unweighted), connected components, and connectivity thresholds, with testing tools and example data provided.
